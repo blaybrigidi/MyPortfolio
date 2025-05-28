@@ -1,5 +1,7 @@
 # 🚀 Brigidi Ackah Blay - Portfolio Website
 
+[![Deploy Status](https://img.shields.io/badge/Deploy-Live-success)](https://render.com)
+
 A modern, responsive portfolio website showcasing my journey as a Full Stack Developer and ML Engineer. Built with cutting-edge technologies and featuring engaging animations, interactive elements, and a clean, professional design.
 
 ## ✨ Features
